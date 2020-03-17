@@ -11,6 +11,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-brands-svg-icons": "^5.12.1",
+    "@fortawesome/free-regular-svg-icons": "^5.12.1",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
     "babel-core": "^6.26.3",
     "babel-loader": "7",
     "babel-preset-env": "^1.7.0",
